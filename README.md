@@ -1,2 +1,0 @@
-# hn-react
-hn-react
